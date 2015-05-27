@@ -8,6 +8,7 @@ License: GNU GPLv3 http://www.gnu.org/licenses/gpl.html
 from swampy.TurtleWorld import *
 import math
 import turtle_figures
+# the module turtle_figures is imported
 
 def forward(t,l):
     """This function defines a movement forward of length l by a turtle t. The turle has a pen and the functions 
