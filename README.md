@@ -10,4 +10,5 @@ and can make ugo draw some pictures (circles, squares, flowers,..). The user can
 (for exmaple, move ugo forward of 100) and the size of the figures (for example, draw a circle of radius 50).
 
 To play with ugo: python turtle_game.py
+
 ...and follow the instructions!
