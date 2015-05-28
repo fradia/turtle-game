@@ -8,3 +8,6 @@ In the game an instance of a Turtle is created and assigned the name ugo.
 The user can move ugo forward, backward, rightward, leftward 
 and can make ugo draw some pictures (circles, squares, flowers,..). The user can also choose the length of ugo's movements 
 (for exmaple, move ugo forward of 100) and the size of the figures (for example, draw a circle of radius 50).
+
+To play with ugo: python turtle_game.py
+...and follow the instructions!
