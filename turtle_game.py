@@ -47,7 +47,7 @@ To make ugo faster a delay of 0.01 is given"""
 
 button=raw_input('Hi! This is Ugo, the turtle\n'
 'Press f,distance to move Ugo forward of a given distance (for example f,100)\n'
-'Press b,distance to move Ugo forward of a given distance (for example b100)\n'
+'Press b,distance to move Ugo backward of a given distance (for example b100)\n'
 'Press r,distance to move Ugo rightward of a given distance (for example r,40)\n'
 'Press l,distance to move Ugo leftward of a given distance (for example l,80)\n'
 'Press square,edge if you want Ugo to draw a square of given edge (for example square,35)\n'
